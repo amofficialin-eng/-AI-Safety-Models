@@ -14,4 +14,5 @@ A comprehensive AI safety system for conversational platforms featuring abuse de
 1. Clone the repository:
 ```bash
 git clone https://github.com/amofficialin-eng/-AI-Safety-Models.git
-cd ai-safety '''
+cd ai-safety
+
